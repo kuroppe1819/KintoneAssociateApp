@@ -1,0 +1,2 @@
+# KintoneAssociateApp
+kintoneアソシエイト試験の答えあわせができるアプリ
