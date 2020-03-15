@@ -13,3 +13,8 @@ kintoneアソシエイト試験の答えあわせができるアプリ
 3. アプリ作成ボタンをクリックするとアプリが追加されます
 
 ![add_app](https://user-images.githubusercontent.com/17245737/59142709-fc598580-89fc-11e9-820a-d9bf0f497ee5.png)
+
+## License
+Copyright (c) 2020 kuroppe1819
+
+Licensed under the <a href="LICENSE">MIT</a> license.
