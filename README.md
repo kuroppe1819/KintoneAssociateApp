@@ -18,3 +18,7 @@ kintoneアソシエイト試験の答えあわせができるアプリ
 Copyright (c) 2019 kuroppe1819
 
 Licensed under the <a href="LICENSE">MIT</a> license.
+
+## Disclaimer
+
+This OSS is my own personal work and does not have any relationship with Cybozu, Inc. or any other organization which I belong to.
